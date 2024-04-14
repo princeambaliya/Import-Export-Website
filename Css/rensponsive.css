@@ -1,0 +1,185 @@
+
+@media(min-width:576px){
+    .contact-us a{
+        font-size: 12px;
+    }
+    .social-contact a{
+        font-size: 13px;
+    }
+}
+@media(min-width:768px){
+    .contact-us a{
+        font-size: 14px;
+    }
+    .social-contact a{
+        font-size: 15px;
+    }
+}
+@media(min-width:850px){
+    .container{
+        max-width: 800px !important;
+    }
+}
+@media(min-width:900px){
+    .container{
+        max-width: 850px !important;
+    }
+}
+@media(min-width:992px){
+    .container{
+        max-width: 900px !important;
+    }
+    .owl-prev{
+        left: 0;
+    }
+    .owl-next{
+        right: 0;
+    }
+}
+@media(min-width:1030px){
+    .container{
+        max-width: 950px !important;
+    }
+}
+@media(min-width:1100px){
+    .container{
+        max-width: 1000px !important;
+    }
+}
+@media(min-width:1150px){
+    .container{
+        max-width: 1050px !important;
+    }
+}
+@media(min-width:1200px){
+    .container{
+        max-width: 1100px !important;
+    }
+    .owl-prev{
+        left: -20px;
+    }
+    .owl-next{
+        right: -20px;
+    }
+    .testimonials-about{
+        height: 340px;
+    }
+}
+@media(min-width:1250px){
+    .container{
+        max-width: 1150px !important;
+    }
+}
+@media(min-width:1300px){
+    .container{
+        max-width: 1200px !important;
+    }
+    .testimonials-about{
+        height: 320px;
+    }
+}
+@media(min-width:1400px){
+    .container{
+        max-width: 1300px !important;
+    }
+    .about .about-content p{
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .testimonials-about{
+        height: 300px;
+    }
+    .portfolio .filters-content figcaption ul li p{
+        font-size: 15px;
+    }
+}
+@media(min-width:1500px){
+    .container{
+        max-width: 1420px !important;
+    }
+}
+@media(min-width:1600px){
+    .container{
+        max-width: 1500px !important;
+    }
+    .banner h1{
+        font-size: 50px;
+    }
+    .testimonials-about{
+        height: 270px;
+    }
+    .portfolio .filters-content figcaption ul li p{
+        font-size: 15px;
+    }
+}
+@media(min-width:1700px){
+    .container{
+        max-width: 1600px !important;
+    }
+    .testimonials-about{
+        height: 250px;
+    }
+}
+@media(min-width:1800px){
+    .container{
+        max-width: 1700px !important;
+    }
+    .banner h1{
+        font-size: 60px;
+    }
+    .banner h4{
+        font-size: 45px;
+    }
+    p{
+        font-size: 20px;
+    }
+    .testimonials-about{
+        height: 350px;
+    }
+    .testimonials-about h6{
+        font-size: 20px;
+    }
+}
+@media(min-width:1900px){
+    .portfolio .filters-content figcaption ul li p{
+        font-size: 18px;
+    }
+}
+@media(max-width:385px){
+    .contact-us a{
+        font-size: 12px;
+    }
+    .social-contact a{
+        font-size: 13px;
+    }
+}
+@media(max-width:575px){
+    .banner h1{
+        font-size: 28px;
+    }
+    .banner h4{
+        font-size: 25px;
+    }
+    .goog-te-gadget .goog-te-combo{
+        font-size: 12px;
+    }
+     .contact-us a{
+        font-size:11px;
+    }
+}
+@media(max-width:991px){
+    .navbar-nav .nav-item{
+        border-bottom: 1px solid rgb(185, 185, 185);
+    }
+    .owl-prev{
+        position: absolute;
+        left: 0;
+        top: 35%;
+    }
+    .owl-next{
+        position: absolute;
+        right: 0;
+        top: 35%;
+    }
+   
+}

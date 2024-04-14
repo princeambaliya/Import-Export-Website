@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-ExtraBold.eot');
+    src: url('Rokkitt-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-ExtraBold.woff2') format('woff2'),
+        url('Rokkitt-ExtraBold.woff') format('woff'),
+        url('Rokkitt-ExtraBold.ttf') format('truetype'),
+        url('Rokkitt-ExtraBold.svg#Rokkitt-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Bold.eot');
+    src: url('Rokkitt-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-Bold.woff2') format('woff2'),
+        url('Rokkitt-Bold.woff') format('woff'),
+        url('Rokkitt-Bold.ttf') format('truetype'),
+        url('Rokkitt-Bold.svg#Rokkitt-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Black.eot');
+    src: url('Rokkitt-Black.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-Black.woff2') format('woff2'),
+        url('Rokkitt-Black.woff') format('woff'),
+        url('Rokkitt-Black.ttf') format('truetype'),
+        url('Rokkitt-Black.svg#Rokkitt-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Light.eot');
+    src: url('Rokkitt-Light.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-Light.woff2') format('woff2'),
+        url('Rokkitt-Light.woff') format('woff'),
+        url('Rokkitt-Light.ttf') format('truetype'),
+        url('Rokkitt-Light.svg#Rokkitt-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-ExtraLight.eot');
+    src: url('Rokkitt-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-ExtraLight.woff2') format('woff2'),
+        url('Rokkitt-ExtraLight.woff') format('woff'),
+        url('Rokkitt-ExtraLight.ttf') format('truetype'),
+        url('Rokkitt-ExtraLight.svg#Rokkitt-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Medium.eot');
+    src: url('Rokkitt-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-Medium.woff2') format('woff2'),
+        url('Rokkitt-Medium.woff') format('woff'),
+        url('Rokkitt-Medium.ttf') format('truetype'),
+        url('Rokkitt-Medium.svg#Rokkitt-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Thin.eot');
+    src: url('Rokkitt-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-Thin.woff2') format('woff2'),
+        url('Rokkitt-Thin.woff') format('woff'),
+        url('Rokkitt-Thin.ttf') format('truetype'),
+        url('Rokkitt-Thin.svg#Rokkitt-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-SemiBold.eot');
+    src: url('Rokkitt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-SemiBold.woff2') format('woff2'),
+        url('Rokkitt-SemiBold.woff') format('woff'),
+        url('Rokkitt-SemiBold.ttf') format('truetype'),
+        url('Rokkitt-SemiBold.svg#Rokkitt-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Regular.eot');
+    src: url('Rokkitt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Rokkitt-Regular.woff2') format('woff2'),
+        url('Rokkitt-Regular.woff') format('woff'),
+        url('Rokkitt-Regular.ttf') format('truetype'),
+        url('Rokkitt-Regular.svg#Rokkitt-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
